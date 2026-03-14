@@ -239,14 +239,13 @@ elif menu == "Association Rules":
 
     assoc_df = df[feature_yesno_cols].copy()
 
-for col in assoc_df.columns:
-    assoc_df[col] = assoc_df[col].astype(str).str.strip().str.lower().map({"yes": 1, "no": 0})
+    for col in assoc_df.columns:
+        assoc_df[col] = assoc_df[col].astype(str).str.strip().str.lower().map({"yes": 1, "no": 0})
 
-assoc_df = assoc_df.fillna(0).astype(int)
+    assoc_df = assoc_df.fillna(0).astype(int)
 
-freq_items = apriori(assoc_df, min_support=0.1, use_colnames=True)
-rules = association_rules(freq_items, metric="confidence", min_threshold=0.5)
-
+    freq_items = apriori(assoc_df, min_support=0.1, use_colnames=True)
+    rules = association_rules(freq_items, metric="confidence", min_threshold=0.5)
 
     if not rules.empty:
         show_cols = ["antecedents", "consequents", "support", "confidence", "lift"]
@@ -256,6 +255,7 @@ rules = association_rules(freq_items, metric="confidence", min_threshold=0.5)
         st.dataframe(rules_display.sort_values(by="lift", ascending=False).head(10))
     else:
         st.write("No strong association rules found with current support/confidence thresholds.")
+
 
 # Business Recommendations
 elif menu == "Business Recommendations":
