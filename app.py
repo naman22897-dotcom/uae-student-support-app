@@ -124,8 +124,9 @@ elif menu == "Classification Analysis":
     y = df_clf[target]
 
     X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.2, random_state=42, stratify=y
-    )
+    X, y, test_size=0.2, random_state=42
+)
+
 
     models = {
         "Decision Tree": DecisionTreeClassifier(random_state=42),
@@ -237,10 +238,15 @@ elif menu == "Association Rules":
     st.subheader("Association Rules")
 
     assoc_df = df[feature_yesno_cols].copy()
-    assoc_df = assoc_df.replace({"Yes": 1, "No": 0})
 
-    freq_items = apriori(assoc_df, min_support=0.1, use_colnames=True)
-    rules = association_rules(freq_items, metric="confidence", min_threshold=0.5)
+for col in assoc_df.columns:
+    assoc_df[col] = assoc_df[col].astype(str).str.strip().str.lower().map({"yes": 1, "no": 0})
+
+assoc_df = assoc_df.fillna(0).astype(int)
+
+freq_items = apriori(assoc_df, min_support=0.1, use_colnames=True)
+rules = association_rules(freq_items, metric="confidence", min_threshold=0.5)
+
 
     if not rules.empty:
         show_cols = ["antecedents", "consequents", "support", "confidence", "lift"]
