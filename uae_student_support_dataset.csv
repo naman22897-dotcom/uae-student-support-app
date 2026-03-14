@@ -1,0 +1,201 @@
+﻿Age,Gender,Nationality,Level_of_Study,New_to_UAE,Monthly_Budget_AED,Willingness_to_Pay_AED,Need_Accommodation_Help,Need_Food_Outlet_Info,Need_Transport_Help,Need_SIM_Card_Guidance,Need_Currency_Exchange_Help,Interested_in_Events,Need_Supermarket_Info,Interested_in_Places_to_Visit,Interested_in_Online_Internships,Interested_in_Part_Time_Jobs,Most_Important_Feature,Likelihood_to_Use_App
+20,Male,Indian,Undergraduate,Yes,2037,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Events,Yes
+22,Female,Indian,Undergraduate,No,2462,13,Yes,No,No,No,No,No,No,Yes,Yes,No,Places to Visit,Maybe
+19,Male,Indian,Undergraduate,Yes,2629,14,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Events,Yes
+34,Male,Indian,Postgraduate,Yes,3873,6,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Accommodation,Yes
+35,Male,Nepali,Undergraduate,No,2551,16,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Supermarkets,Maybe
+20,Female,Nepali,Undergraduate,Yes,2589,15,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Events,Yes
+34,Female,Other,Diploma,Yes,2108,11,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Currency Exchange,Maybe
+34,Male,Pakistani,Postgraduate,No,4107,11,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Places to Visit,Yes
+18,Male,Nigerian,Diploma,Yes,2367,19,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,SIM Card,Yes
+20,Male,Bangladeshi,Diploma,Yes,2016,16,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Accommodation,Yes
+24,Male,Pakistani,Undergraduate,Yes,2946,14,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,SIM Card,Maybe
+34,Male,Indian,Undergraduate,Yes,3245,10,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Accommodation,Yes
+35,Male,Other,Undergraduate,Yes,2842,17,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Food,Maybe
+24,Male,Indian,Diploma,Yes,1200,0,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Food,Maybe
+23,Female,Nigerian,Postgraduate,Yes,3662,13,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Accommodation,Yes
+21,Male,Sri Lankan,Postgraduate,Yes,3608,17,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Supermarkets,No
+22,Female,Sri Lankan,Diploma,Yes,2004,6,No,No,No,No,Yes,No,Yes,No,No,Yes,Part-Time Jobs,Yes
+24,Male,Bangladeshi,Undergraduate,Yes,8500,45,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Accommodation,Yes
+33,Male,Nigerian,Postgraduate,Yes,2031,13,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Accommodation,Yes
+30,Male,Bangladeshi,Postgraduate,Yes,2651,8,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,SIM Card,Yes
+22,Female,Indian,Postgraduate,Yes,4631,23,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Currency Exchange,Yes
+29,Male,Bangladeshi,Undergraduate,Yes,2185,9,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Places to Visit,Maybe
+31,Female,Bangladeshi,Postgraduate,No,1727,7,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Transport,Yes
+34,Male,Indian,Postgraduate,Yes,2739,17,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Transport,Yes
+29,Female,Other,Undergraduate,Yes,2018,9,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Supermarkets,Yes
+35,Female,Indian,Undergraduate,No,2793,16,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Accommodation,Yes
+19,Female,Bangladeshi,Postgraduate,No,2988,13,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Accommodation,No
+20,Female,Other,Postgraduate,No,2587,20,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Accommodation,Maybe
+19,Male,Indian,Diploma,No,3403,21,No,No,No,No,No,No,Yes,No,No,No,Supermarkets,Maybe
+24,Female,Indian,Diploma,Yes,1396,11,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Accommodation,Yes
+30,Male,Bangladeshi,Postgraduate,Yes,1886,11,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Places to Visit,Yes
+20,Female,Indian,Postgraduate,No,3256,10,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Internships,Yes
+19,Male,Indian,Undergraduation,Yes,2500,2000,NO,YES,YES,NO,NO,YES,YES,YES,YES,YES,Accommodation,YES
+35,Female,Indian,Undergraduate,Yes,1901,14,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Accommodation,Yes
+25,Female,Indian,Undergraduate,Yes,3256,13,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,SIM Card,Yes
+34,Male,Indian,Diploma,Yes,3590,17,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Supermarkets,Yes
+25,Male,Indian,Postgraduate,No,3295,13,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Part-Time Jobs,Yes
+30,Male,Bangladeshi,Diploma,Yes,1578,6,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Events,Yes
+23,Male,Nepali,Postgraduate,Yes,3348,14,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,SIM Card,Maybe
+20,Male,Indian,Diploma,Yes,2050,5,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,SIM Card,Yes
+33,Male,Indian,Postgraduate,No,2627,8,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Transport,Yes
+27,Female,Bangladeshi,Diploma,Yes,1200,1,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Places to Visit,Maybe
+21,Male,Sri Lankan,Undergraduate,Yes,2253,12,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Places to Visit,Yes
+19,Male,Indian,Postgraduate,No,2533,14,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Food,Maybe
+24,Male,Nepali,Undergraduate,Yes,1238,11,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,SIM Card,No
+32,Male,Pakistani,Postgraduate,Yes,2360,10,Yes,Yes,Yes,No,No,No,No,No,No,No,Transport,Maybe
+24,Female,Nepali,Postgraduate,Yes,2281,3,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Transport,Yes
+28,Male,Nigerian,Diploma,Yes,2611,7,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Events,Yes
+29,Male,Nepali,Postgraduate,Yes,2527,6,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Internships,Yes
+30,Male,Indian,Postgraduate,No,2927,15,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Part-Time Jobs,No
+25,Male,Pakistani,Undergraduate,No,2568,10,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Supermarkets,Yes
+27,Male,Indian,Postgraduate,Yes,3438,10,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Transport,Yes
+17,Male,Sri Lankan,Postgraduate,Yes,3219,16,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Internships,Yes
+17,Male,Pakistani,Undergraduate,Yes,1200,10,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,SIM Card,Yes
+20,Female,Bangladeshi,Postgraduate,Yes,3093,18,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Accommodation,Yes
+20,Female,Pakistani,Undergraduate,Yes,3142,11,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Supermarkets,Yes
+20,Male,Nepali,Undergraduate,Yes,2194,16,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Internships,Yes
+22,Female,Nepali,Undergraduate,Yes,1999,10,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Food,Yes
+25,Male,Pakistani,Postgraduate,Yes,3354,19,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Part-Time Jobs,Yes
+26,Male,Indian,Postgraduate,Yes,2716,17,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Events,Yes
+20,Male,Other,Undergraduate,No,1910,12,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Accommodation,Maybe
+23,Female,Indian,Postgraduate,No,3575,10,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Events,Maybe
+27,Female,Nepali,Undergraduate,Yes,1623,11,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Currency Exchange,Yes
+34,Female,Bangladeshi,Postgraduate,No,1801,9,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Internships,Maybe
+22,Male,Nigerian,Undergraduate,Yes,2614,10,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Accommodation,Maybe
+26,Female,Bangladeshi,Undergraduate,Yes,2627,10,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,SIM Card,Yes
+23,Male,Bangladeshi,Undergraduate,No,2432,15,No,Yes,No,No,No,No,No,No,Yes,Yes,Food,Maybe
+22,Female,Indian,Undergraduate,Yes,3409,12,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,SIM Card,Yes
+33,Male,Other,Diploma,No,2693,15,No,No,No,Yes,No,No,Yes,No,Yes,No,SIM Card,No
+24,Female,Nigerian,Diploma,Yes,1837,13,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,SIM Card,Yes
+32,Male,Indian,Postgraduate,Yes,2985,7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Part-Time Jobs,Yes
+33,Female,Bangladeshi,Diploma,Yes,1680,15,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Accommodation,Yes
+17,Male,Indian,Undergraduate,Yes,3230,17,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Accommodation,Maybe
+18,Male,Indian,Undergraduate,Yes,3259,11,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Currency Exchange,Yes
+29,Male,Indian,Postgraduate,Yes,3538,10,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Places to Visit,Yes
+31,Male,Nigerian,Postgraduate,No,2442,25,No,Yes,No,No,No,No,No,Yes,Yes,No,Food,No
+28,Male,Other,Undergraduate,Yes,2250,12,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Part-Time Jobs,Yes
+31,Male,Nepali,Postgraduate,No,2999,15,Yes,Yes,No,No,No,No,No,No,Yes,No,Accommodation,Yes
+22,Female,Pakistani,Undergraduate,Yes,3081,19,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Currency Exchange,Maybe
+19,Male,Indian,Undergraduate,Yes,2287,11,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Food,Yes
+33,Female,Sri Lankan,Diploma,Yes,2155,10,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,SIM Card,Yes
+18,Female,Sri Lankan,Undergraduate,Yes,1701,7,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Transport,Yes
+27,Female,Indian,Postgraduate,Yes,4447,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Supermarkets,Maybe
+22,Female,Other,Postgraduate,Yes,8500,50,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Events,Yes
+17,Female,Pakistani,Diploma,Yes,2049,6,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Accommodation,Yes
+27,Female,Pakistani,Undergraduate,Yes,2259,12,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Supermarkets,Yes
+33,Female,Nepali,Postgraduate,Yes,3130,8,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Places to Visit,Maybe
+35,Male,Pakistani,Postgraduate,Yes,2386,18,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Currency Exchange,Yes
+21,Male,Nepali,Diploma,Yes,1200,18,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Food,No
+26,Female,Bangladeshi,Postgraduate,Yes,2186,12,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Transport,Yes
+31,Female,Bangladeshi,Diploma,No,2047,17,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Currency Exchange,Yes
+34,Female,Indian,Postgraduate,No,2540,13,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Part-Time Jobs,Maybe
+18,Female,Pakistani,Postgraduate,No,4530,13,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Internships,Yes
+20,Male,Bangladeshi,Postgraduate,Yes,3491,14,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Part-Time Jobs,Maybe
+17,Male,Indian,Postgraduate,No,3091,20,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,SIM Card,No
+26,Male,Indian,Diploma,Yes,1200,13,Yes,No,No,No,No,No,No,No,No,No,Accommodation,Maybe
+35,Male,Sri Lankan,Diploma,Yes,1699,9,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Supermarkets,Yes
+26,Female,Pakistani,Diploma,Yes,1838,9,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Places to Visit,Yes
+29,Male,Nigerian,Undergraduate,Yes,3891,12,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Currency Exchange,Yes
+29,Female,Indian,Undergraduate,Yes,3490,10,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Places to Visit,Yes
+29,Male,Nepali,Postgraduate,Yes,4112,27,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Transport,Yes
+35,Female,Nigerian,Postgraduate,Yes,1893,11,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,SIM Card,Maybe
+18,Female,Other,Postgraduate,Yes,3618,17,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Accommodation,Yes
+34,Male,Indian,Diploma,Yes,2548,10,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Transport,Yes
+26,Male,Pakistani,Postgraduate,Yes,3870,14,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,SIM Card,Yes
+29,Female,Indian,Postgraduate,No,2867,19,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Internships,Maybe
+19,Female,Bangladeshi,Postgraduate,Yes,3189,10,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Supermarkets,Yes
+25,Male,Indian,Postgraduate,Yes,2111,16,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,SIM Card,Yes
+26,Female,Sri Lankan,Postgraduate,No,3266,11,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Accommodation,Yes
+23,Female,Bangladeshi,Postgraduate,Yes,3759,11,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Places to Visit,Yes
+35,Female,Pakistani,Diploma,Yes,2011,8,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Currency Exchange,Yes
+25,Female,Pakistani,Undergraduate,Yes,2127,13,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Currency Exchange,Yes
+26,Male,Bangladeshi,Undergraduate,Yes,1455,12,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Places to Visit,No
+24,Female,Indian,Undergraduate,Yes,2379,17,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Accommodation,Maybe
+27,Female,Pakistani,Diploma,Yes,1200,13,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Supermarkets,Maybe
+27,Male,Sri Lankan,Undergraduate,Yes,1710,7,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Places to Visit,Yes
+26,Male,Bangladeshi,Postgraduate,No,4590,23,No,Yes,No,No,No,No,No,Yes,No,No,Places to Visit,No
+28,Male,Nepali,Postgraduate,Yes,1953,0,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Currency Exchange,Yes
+21,Male,Indian,Undergraduate,Yes,2889,12,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,SIM Card,Yes
+27,Female,Bangladeshi,Undergraduate,No,2164,14,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Food,Yes
+23,Male,Bangladeshi,Diploma,Yes,2726,18,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Food,Maybe
+26,Female,Nepali,Postgraduate,Yes,2921,15,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Food,Yes
+22,Male,Pakistani,Undergraduate,Yes,2724,12,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Internships,Yes
+34,Male,Sri Lankan,Postgraduate,Yes,2532,12,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Internships,Yes
+18,Male,Indian,Diploma,Yes,3236,13,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Accommodation,Yes
+34,Male,Other,Diploma,Yes,3489,12,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Transport,Yes
+29,Male,Nepali,Undergraduate,Yes,1288,11,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Places to Visit,Yes
+28,Female,Sri Lankan,Undergraduate,No,2767,7,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Part-Time Jobs,No
+22,Male,Indian,Diploma,Yes,2079,8,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,SIM Card,Yes
+19,Female,Indian,Postgraduate,Yes,3534,21,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Currency Exchange,Yes
+21,Female,Bangladeshi,Undergraduate,Yes,1873,8,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Internships,Yes
+21,Male,Nepali,Undergraduate,Yes,2011,6,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Places to Visit,Yes
+24,Male,Nepali,Postgraduate,No,4293,14,Yes,No,No,No,No,No,No,No,Yes,Yes,Accommodation,Yes
+29,Male,Nepali,Postgraduate,Yes,2825,10,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Places to Visit,Yes
+30,Female,Sri Lankan,Diploma,Yes,1845,12,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Places to Visit,Yes
+21,Female,Nigerian,Postgraduate,Yes,3938,12,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Food,Maybe
+20,Male,Pakistani,Undergraduate,No,2423,17,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Internships,Yes
+28,Male,Bangladeshi,Undergraduate,Yes,1966,10,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Places to Visit,Yes
+32,Female,Sri Lankan,Postgraduate,Yes,3347,10,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Transport,No
+30,Male,Indian,Diploma,Yes,3328,19,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Events,No
+24,Male,Nigerian,Diploma,Yes,2562,8,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,SIM Card,Yes
+31,Male,Indian,Postgraduate,Yes,3028,6,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Accommodation,Yes
+34,Male,Pakistani,Diploma,Yes,3127,13,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Food,Yes
+21,Male,Sri Lankan,Diploma,Yes,2230,10,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Transport,Yes
+26,Male,Nigerian,Postgraduate,Yes,3035,16,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Currency Exchange,Yes
+25,Male,Indian,Undergraduate,No,2637,10,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Food,Yes
+29,Male,Sri Lankan,Diploma,Yes,1200,4,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,SIM Card,Yes
+19,Male,Nepali,Undergraduate,Yes,1693,16,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Events,Yes
+29,Female,Indian,Undergraduate,No,2528,6,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Transport,Yes
+22,Female,Other,Diploma,Yes,7000,50,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Part-Time Jobs,Maybe
+27,Male,Indian,Undergraduate,Yes,2588,14,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Internships,Yes
+22,Male,Sri Lankan,Undergraduate,Yes,2430,14,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Transport,Maybe
+30,Male,Indian,Postgraduate,Yes,2287,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Transport,Yes
+23,Male,Indian,Postgraduate,No,3106,13,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Supermarkets,Maybe
+35,Male,Bangladeshi,Postgraduate,Yes,2533,17,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Events,No
+18,Male,Nigerian,Diploma,Yes,2078,9,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Events,Yes
+19,Male,Nepali,Postgraduate,No,1571,8,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Accommodation,Maybe
+34,Female,Nigerian,Postgraduate,Yes,2089,8,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Transport,Yes
+26,Male,Sri Lankan,Diploma,Yes,2475,11,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Supermarkets,Yes
+18,Male,Indian,Undergraduate,Yes,3371,21,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Internships,Yes
+20,Female,Indian,Postgraduate,Yes,4059,13,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Food,Yes
+23,Male,Pakistani,Undergraduate,No,2408,11,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,SIM Card,Yes
+31,Male,Pakistani,Postgraduate,Yes,5516,18,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,SIM Card,Maybe
+26,Male,Pakistani,Undergraduate,Yes,3082,6,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Part-Time Jobs,Yes
+24,Female,Nepali,Postgraduate,No,2580,15,Yes,Yes,No,No,No,No,No,No,No,No,Food,Maybe
+24,Female,Indian,Postgraduate,Yes,3366,17,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,SIM Card,Maybe
+21,Female,Indian,Diploma,No,2532,11,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Supermarkets,Maybe
+19,Male,Pakistani,Undergraduate,Yes,2342,11,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Part-Time Jobs,Yes
+33,Female,Indian,Diploma,Yes,1954,18,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Currency Exchange,Maybe
+21,Male,Indian,Postgraduate,Yes,3142,4,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Events,Yes
+21,Male,Bangladeshi,Undergraduate,Yes,2735,16,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Internships,No
+28,Female,Indian,Undergraduate,Yes,2966,24,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Accommodation,Yes
+26,Male,Indian,Diploma,No,2539,8,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Internships,Maybe
+28,Female,Indian,Undergraduate,No,2518,16,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Internships,Maybe
+22,Female,Sri Lankan,Postgraduate,No,3954,9,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Supermarkets,Yes
+27,Male,Bangladeshi,Postgraduate,Yes,2849,7,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Transport,Yes
+27,Male,Other,Undergraduate,Yes,2421,7,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Events,Yes
+19,Female,Other,Postgraduate,No,2791,9,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Events,Maybe
+17,Male,Sri Lankan,Diploma,Yes,1200,8,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,SIM Card,Yes
+20,Female,Indian,Postgraduate,Yes,4304,22,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Places to Visit,Yes
+22,Female,Indian,Undergraduate,Yes,3126,9,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Internships,Yes
+34,Female,Bangladeshi,Diploma,Yes,2004,17,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Transport,Yes
+30,Female,Nigerian,Postgraduate,No,3415,14,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Internships,Maybe
+28,Female,Indian,Diploma,Yes,2852,6,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Food,Yes
+25,Male,Nigerian,Diploma,Yes,2430,18,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Part-Time Jobs,Yes
+18,Male,Nepali,Undergraduate,Yes,2083,15,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Transport,Yes
+24,Female,Pakistani,Postgraduate,Yes,2612,10,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Supermarkets,Yes
+24,Female,Nepali,Postgraduate,No,2682,8,No,No,Yes,No,No,No,No,Yes,No,Yes,Transport,Yes
+33,Male,Indian,Diploma,Yes,1375,8,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Events,Maybe
+17,Male,Indian,Undergraduate,Yes,2810,6,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Events,Yes
+19,Male,Pakistani,Undergraduate,Yes,2017,8,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Events,No
+28,Female,Indian,Diploma,Yes,2955,14,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Food,Yes
+20,Male,Sri Lankan,Diploma,No,3807,7,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Food,No
+27,Male,Indian,Postgraduate,Yes,3846,19,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Transport,Yes
+26,Male,Indian,Postgraduate,Yes,3185,22,No,Yes,Yes,Yes,No,No,No,No,No,No,SIM Card,Yes
+25,Male,Other,Postgraduate,Yes,3316,16,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Currency Exchange,Yes
+31,Male,Nepali,Postgraduate,No,3490,20,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Part-Time Jobs,Yes
+27,Male,Other,Postgraduate,Yes,3559,7,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Internships,Maybe
+17,Male,Indian,Undergraduate,Yes,2343,8,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Food,Yes
+18,Male,Nepali,Undergraduate,Yes,2361,9,Yes,No,Yes,Yes,No,No,No,No,No,No,Accommodation,Yes
